@@ -18,8 +18,8 @@
     "noFallthroughCasesInSwitch": false,
     "baseUrl": "..",
     "paths": {
-      "@swapflow": [
-        "../../packages"
+      "@swapflow/*": [
+        "../packages/*"
       ],
     }
   }
