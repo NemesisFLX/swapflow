@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "workspaces": [
+        "packages/utils",
+        "apps/backend",
+        "apps/frontend"
+    ],
+    "name": "swapflow",
+    "devDependencies": {
+        "lerna": "^4.0.0"
+    }
+}
